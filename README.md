@@ -15,7 +15,7 @@ A simple Simon Says memory game built with HTML, CSS, and JavaScript.
 
 <img width="1242" height="847" alt="image" src="https://github.com/user-attachments/assets/7d6b8a1f-ced6-4ffc-8951-9f21491df897" />
 
-
+***You can try this game here just copy and paste on browser***
 cheerful-horse-1f2e9d.netlify.app
 
 
