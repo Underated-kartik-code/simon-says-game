@@ -13,4 +13,5 @@ A simple Simon Says memory game built with HTML, CSS, and JavaScript.
 2. Open `index.html` in your browser
 3. Click **Start** and repeat the color sequence
 
-<img width="880" height="812" alt="image" src="https://github.com/user-attachments/assets/181d5017-b099-47f5-a51a-25fab5e608ba" />
+<img width="1242" height="847" alt="image" src="https://github.com/user-attachments/assets/7d6b8a1f-ced6-4ffc-8951-9f21491df897" />
+
